@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abza21.github.io/Consultancy-website/sitemap.xml
